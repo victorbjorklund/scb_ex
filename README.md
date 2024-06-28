@@ -1,0 +1,3 @@
+# ScbEx
+
+A library for accessing SCB https://www.scb.se/en/services/open-data-api/api-for-the-statistical-database/. The goal is to wrap the API in a "better" API for both writing queries but also for handling the data that is returned. The API will change a lot and you should not use this project yet until there is a stable API. At this point I am just testing different stuff to see what works and what does not work. 
